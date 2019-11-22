@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #f7f8f9;
+}
+.crm{
+    width:100%;
+    background: darkgrey;
+    text-align: right;
+}
+.fs{
+    font-size: 12px;
+    display: inline-block;
+    
+}
+
+.text{
+    text-align: right;
+}
+
+.nav{
+   width: 100px;
+   height: 40px;
+   color:#fff;
+   text-align: center;
+   line-height: 40px;
+   text-decoration:none
+}
+.active{
+    width: 100px;
+   height: 40px;
+   text-align: center;
+   line-height: 40px;
+    background: #fff;
+    color: #0ba2b5;
+}
+.leibie{
+    width:80%;
+    font-size: 12px;
+}
+.addjia{
+    width:100%;
+    font-size: 12px;
+}
+.color:hover{
+   color:blue
+}
+.colorer:hover{
+    color:blue;
+
+}
+.ye{
+    margin: 0 auto;
+    text-align: center;
+    line-height: 25px;
+}
+.user{
+    width:71%;
+}
+.from{
+    
+    margin: 0 auto;
+
+}
+
+html,
+body,
+p,
+ol,
+ul,
+li,
+dl,
+dt,
+dd,
+blockquote,
+figure,
+fieldset,
+legend,
+textarea,
+pre,
+iframe,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0
+}
+
+
+ul {
+    list-style: none
+}
+
+body{
+    background:#f7f8f9;
+}
+
+a{
+    text-decoration: none;
+}
